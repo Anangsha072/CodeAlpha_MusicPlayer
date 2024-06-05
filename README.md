@@ -8,3 +8,4 @@ JavaScript:
 * Created an array of songs with their title, artist, and source path.
 * Functions to load songs, play, pause, and navigate through the playlist.
 * Event listeners for button clicks to control the audio playback.
+https://anangsha072.github.io/CodeAlpha_MusicPlayer/
